@@ -1,0 +1,4 @@
+train_test_data/
+environment/
+__pycache__
+requirements.txt
